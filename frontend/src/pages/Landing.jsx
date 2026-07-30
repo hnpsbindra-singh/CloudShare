@@ -97,7 +97,6 @@ export default function Landing() {
 
       <header className="landing-hero">
         <div className="hero-badge">
-          <Zap size={14} style={{ color: '#0b57d0' }} />
           <span>Next-Gen Cloud Storage</span>
         </div>
 
