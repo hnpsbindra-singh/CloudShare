@@ -1,2 +1,0 @@
-Folder Controller (/api/folders) — 🔴 To Build
-GET	/api/files/search	?query=filename	Search user's files by name.
